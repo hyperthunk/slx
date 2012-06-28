@@ -1,0 +1,7 @@
+{application, slx,
+ [
+  {description, "SLX - A Conditional Expression Language Compiler Backend"},
+  {vsn, "0.0.1"},
+  {applications, [kernel, stdlib]},
+  {env, []}
+]}.
